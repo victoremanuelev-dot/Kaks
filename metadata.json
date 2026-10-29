@@ -1,0 +1,6 @@
+{
+  "name": "Media Center TV",
+  "description": "Central Multimídia para TV Box com Jukebox, Karaokê com IA, Vídeos e Jogos Retrô",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

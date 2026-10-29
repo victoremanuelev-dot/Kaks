@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Media Center TV</string>
+    <string name="tab_home">Home</string>
+    <string name="tab_jukebox">Jukebox</string>
+    <string name="tab_karaoke">Karaokê</string>
+    <string name="tab_videos">Vídeos</string>
+    <string name="tab_games">Jogos</string>
+    <string name="tab_settings">Config</string>
+    <string name="search_hint">Buscar músicas, artistas ou videokê…</string>
+</resources>
